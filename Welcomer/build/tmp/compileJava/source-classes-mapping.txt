@@ -1,0 +1,4 @@
+com/jacobcreator/Welcomer/Config.java
+ com.jacobcreator.Welcomer.Config
+com/jacobcreator/Welcomer/Main.java
+ com.jacobcreator.Welcomer.Main
